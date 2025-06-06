@@ -1,2 +1,3 @@
-# pypackage-template
-lightweight template for python package
+# pyplot-xg
+
+Helper functions for python plotting
